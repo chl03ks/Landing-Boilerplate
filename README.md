@@ -26,7 +26,7 @@ $ gulp start
 ## View
 
 ```
-$ localhost:3000
+ localhost:3000
 ```
 
 ## Note
